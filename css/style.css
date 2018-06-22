@@ -1,0 +1,57 @@
+.body{
+  margin:0px;
+  padding:0px;
+}
+.input{
+    margin:5px;
+    height:25px;
+    box-sizing: border-box;
+    border: 1px solid #da52a1;
+    border-radius: 8px;
+    text-align: center;
+    font-size:12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#count{
+    margin:5px;
+    height:25px;
+    box-sizing: border-box;
+    border: 1px solid #da52a1;
+    background-color: #f569ba;
+    color:white;
+    border-radius: 8px;
+    text-align: center;
+    font-size:12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.send
+{
+  background-color:#da52a1;
+  cursor: pointer; 
+  border:none;
+  text-align: center;
+  height: 30px;
+  border: 1px solid #885573;
+  border-radius: 14px;
+  color:white;
+  font-size:12px;
+  margin:5px;
+}
+#mainbox{
+  border:2px solid #da208c;
+  width:310px;
+  border-radius: 8px;
+  margin-left:5%;
+  margin-top:3%;
+}
+#showbox{
+position:fixed;
+top:7%;
+left:40%;
+text-align: center;
+font-size:12px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+  
+
